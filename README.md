@@ -54,7 +54,7 @@ The documentation is included in the boilerplate for your convenience (meanwhile
 
 ## Showcase page
 
-The boilerplate conveniently includes a showcase page that allows you to conveniently see what the Bootstrap components look like while your are customizing your Bootstrap styles:
+The boilerplate includes a showcase page to easily see what the Bootstrap components look like while your are customizing your Bootstrap styles:
 
 ![](http://i.imgur.com/g43CZge.png)
 
