@@ -1,0 +1,17 @@
+doctype html
+html
+    head
+        meta(charset='utf8')
+        title= name
+        link(rel='stylesheet', href='/css/global.css')
+        link(rel='stylesheet', href='http://fonts.googleapis.com/css?family=Open+Sans')
+        script(src='/bower/jquery/dist/jquery.min.js')
+        script(src='/bower/bootstrap/dist/js/bootstrap.js')
+    body
+
+        != partial("_partials/header")
+
+        main
+            != yield
+
+        != partial("_partials/footer")
