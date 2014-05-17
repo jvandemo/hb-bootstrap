@@ -9,6 +9,10 @@ Allows you to generate a Bootstrap enabled website in seconds using [Harp](http:
 - Prevents CSS bloat by allowing you to only include the Bootstrap components that you really need
 - Includes a showcase page that allows you to conveniently see what the Bootstrap components look like while your are customizing your Bootstrap styles
 
+## Demo
+
+A clean installation of the boilerplate looks like this: [http://jvandemo.github.io/hb-bootstrap/](http://jvandemo.github.io/hb-bootstrap/)
+
 ## Installation
 
 First make sure you have Harp and Bower installed:
