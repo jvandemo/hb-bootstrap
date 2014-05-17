@@ -48,7 +48,7 @@ And navigate to `http://localhost:9000` in your browser:
 
 ## Documentation
 
-The documentation is included in the boilerplate for your convenience (meanwhile it demonstrates how you can easily create new layouts in your website):
+The documentation is included in the boilerplate for your convenience (at the same time it demonstrates how you can easily create new layouts in your website):
 
 ![](http://i.imgur.com/mJTLMQz.png)
 
