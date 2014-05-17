@@ -11,13 +11,13 @@ Each theme contains a `_bootstrap.less` file with all Bootstrap components you w
 To leave dropdowns and button-groups for a theme, simply comment out the following line in the `_bootstrap.less` inside the theme folder:
 
 ```less
-@import "../../../_bower/bootstrap/less/component-animations";
-@import "../../../_bower/bootstrap/less/glyphicons";
-// @import "../../../_bower/bootstrap/less/dropdowns";
-// @import "../../../_bower/bootstrap/less/button-groups";
-@import "../../../_bower/bootstrap/less/input-groups";
-@import "../../../_bower/bootstrap/less/navs";
-@import "../../../_bower/bootstrap/less/navbar";
+@import "../../../../bower_components/bootstrap/less/component-animations";
+@import "../../../../bower_components/bootstrap/less/glyphicons";
+// @import "../../../../bower_components/bootstrap/less/dropdowns";
+// @import "../../../../bower_components/bootstrap/less/button-groups";
+@import "../../../../bower_components/bootstrap/less/input-groups";
+@import "../../../../bower_components/bootstrap/less/navs";
+@import "../../../../bower_components/bootstrap/less/navbar";
 ```
 
 That's all there is to it!
