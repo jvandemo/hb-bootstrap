@@ -60,6 +60,10 @@ The boilerplate includes a showcase page to easily see what the Bootstrap compon
 
 ## Changelog
 
+### v0.4.0
+
+- Added support for `baseUrl`
+
 ### v0.3.0
 
 - Added documentation as part of boilerplate

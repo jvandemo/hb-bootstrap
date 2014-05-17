@@ -1,5 +1,6 @@
 {
-    "globals": {
-        "name"  : "Bootstrap boilerplate for Harp"
-    }
+  "globals": {
+    "baseUrl": "",
+    "name": "Bootstrap boilerplate for Harp"
+  }
 }
