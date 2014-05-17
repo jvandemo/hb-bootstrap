@@ -6,6 +6,7 @@ Allows you to generate a Bootstrap enabled website in seconds using [Harp](http:
 - Offers theme support that doesn't interfere with Bootstrap updates
 - Allows you to easily customize Bootstrap for each individual theme
 - Uses Bower to install Bootstrap (and automate updates)
+- Supports hosting in a subdirectory using a `baseUrl` variable
 - Prevents CSS bloat by allowing you to only include the Bootstrap components that you really need
 - Includes a showcase page that allows you to conveniently see what the Bootstrap components look like while your are customizing your Bootstrap styles
 
